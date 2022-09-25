@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nome": "Fone de ouvido sem fio",
+    "foto": "https://edeciofernando.github.io/moveis/bauru.jpg",
+    "preco": 80.0,
+    "Marca": "JBL"
+  },
+  {
+    "id": 2,
+    "nome": "Fone de ouvido com fio",
+    "foto": "https://edeciofernando.github.io/moveis/salada.jpg",
+    "preco": 30.0,
+    "Marca": "JBL"
+  },
+  {
+    "id": 3,
+    "nome": "Headset Gamer sem fio",
+    "foto": "https://edeciofernando.github.io/moveis/cachorro.jpg",
+    "preco": 250.0,
+    "Marca": "Hyperx"
+  },
+  {
+    "id": 4,
+    "nome": "Headset Gamer com fio",
+    "foto": "https://edeciofernando.github.io/moveis/vegano.jpg",
+    "preco": 150.0,
+    "Marca": "Hyperx"
+  }
+]
